@@ -1,0 +1,6 @@
+#include only src subfolders
+/*/*
+!/*/src
+/*/src/__pycache__
+
+*.toml
